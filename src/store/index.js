@@ -12,7 +12,7 @@ export default new Vuex.Store({
         color: "Белый",
         comment: "qw",
         gender: "М",
-        id: "cv7nqxg23",
+        id: "cv7nqqxg23",
         image: "http://localhost:8080/assets/default_cat.jpg",
         name: "Дуся"
       },
@@ -22,7 +22,7 @@ export default new Vuex.Store({
         color: "Чёрный",
         comment: "qw",
         gender: "М",
-        id: "cv7nq1gk3",
+        id: "cv7nq14ggk3",
         image: "http://localhost:8080/assets/default_cat.jpg",
         name: "Барсик"
       },
@@ -32,7 +32,7 @@ export default new Vuex.Store({
         color: "Рыжий",
         comment: "qw",
         gender: "М",
-        id: "cv7nq24k3",
+        id: "cv7nq22f4k3",
         image: "http://localhost:8080/assets/default_cat.jpg",
         name: "Степа"
       },
@@ -42,7 +42,7 @@ export default new Vuex.Store({
         color: "Персиковый",
         comment: "qw",
         gender: "Ж",
-        id: "cv4nqxgk3",
+        id: "cv4nq2gdxgk3",
         image: "http://localhost:8080/assets/default_cat.jpg",
         name: "Даша"
       },
@@ -52,7 +52,7 @@ export default new Vuex.Store({
         color: "Белый",
         comment: "qw",
         gender: "Ж",
-        id: "cv4n12gk3",
+        id: "cv4n5g12gk3",
         image: "http://localhost:8080/assets/default_cat.jpg",
         name: "Карина"
       },
@@ -62,7 +62,7 @@ export default new Vuex.Store({
         color: "Чёрный",
         comment: "qwww",
         gender: "Ж",
-        id: "cv4112gk3",
+        id: "cv4114g2gk3",
         image: "http://localhost:8080/assets/default_cat.jpg",
         name: "Дудя"
       }, 
@@ -72,7 +72,7 @@ export default new Vuex.Store({
         color: "Белый",
         comment: "qw",
         gender: "М",
-        id: "cv7nqag23",
+        id: "cv7nqag22f3",
         image: "http://localhost:8080/assets/default_cat.jpg",
         name: "Дуся"
       },
@@ -82,7 +82,7 @@ export default new Vuex.Store({
         color: "Белый",
         comment: "qw",
         gender: "М",
-        id: "cv7nqzg23",
+        id: "cv7n2wrqzg23",
         image: "http://localhost:8080/assets/default_cat.jpg",
         name: "Дуся"
       },
@@ -92,7 +92,7 @@ export default new Vuex.Store({
         color: "Белый",
         comment: "qw",
         gender: "М",
-        id: "cv7nqxa23",
+        id: "cv7n1eqxa23",
         image: "http://localhost:8080/assets/default_cat.jpg",
         name: "Дуся"
       },
@@ -102,7 +102,7 @@ export default new Vuex.Store({
         color: "Белый",
         comment: "qw",
         gender: "М",
-        id: "cv7nqaf23",
+        id: "cv7nqhklaf23",
         image: "http://localhost:8080/assets/default_cat.jpg",
         name: "Дуся"
       },
@@ -112,7 +112,7 @@ export default new Vuex.Store({
         color: "Белый",
         comment: "qw",
         gender: "М",
-        id: "cv7neee23",
+        id: "cv7nejklee23",
         image: "http://localhost:8080/assets/default_cat.jpg",
         name: "Дуся"
       },
@@ -122,7 +122,7 @@ export default new Vuex.Store({
         color: "Белый",
         comment: "qw",
         gender: "М",
-        id: "cvrrrxg23",
+        id: "cvrrrxhjgkg23",
         image: "http://localhost:8080/assets/default_cat.jpg",
         name: "Дуся"
       },
@@ -132,7 +132,7 @@ export default new Vuex.Store({
         color: "Белый",
         comment: "qw",
         gender: "М",
-        id: "cv7nsf23",
+        id: "cv7nsmjf23",
         image: "http://localhost:8080/assets/default_cat.jpg",
         name: "Дуся"
       },
@@ -142,7 +142,7 @@ export default new Vuex.Store({
         color: "Белый",
         comment: "qw",
         gender: "М",
-        id: "cv7nasg23",
+        id: "cv7nabmvsg23",
         image: "http://localhost:8080/assets/default_cat.jpg",
         name: "Дуся"
       },
@@ -152,7 +152,7 @@ export default new Vuex.Store({
         color: "Белый",
         comment: "qw",
         gender: "М",
-        id: "cv7nhhg23",
+        id: "cv7nhcvbhg23",
         image: "http://localhost:8080/assets/default_cat.jpg",
         name: "Дуся"
       },
@@ -162,7 +162,362 @@ export default new Vuex.Store({
         color: "Белый",
         comment: "qw",
         gender: "М",
-        id: "cv7nttg23",
+        id: "cv7ntzztg23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nvnbeee23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cvrrrxwerg23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nasdsf23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nacvxbsg23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nhdfghhg23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7ntdhtg23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nsdeee23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cvrrrxqqg23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nsf123412423",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7n3456sg23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nh111111hg23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7ntt1234g23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nee6675e23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cvrrr567xg23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7ns45f23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7na34sg23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nhh444g23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nt333tg23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv722neee23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cvrrrxg111123",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7ns111f23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nas0g23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nhh90g23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7ntt89g23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nee78e23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cvrrrx67g23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nsf5623",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nas45g23",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nhhg4323",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nttg1223",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7ntt1g1223",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nt3tg1223",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nttg15223",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nttg1e223",
+        image: "http://localhost:8080/assets/default_cat.jpg",
+        name: "Дуся"
+      },
+      
+      {
+        age: "12",
+        breed: "Британская",
+        color: "Белый",
+        comment: "qw",
+        gender: "М",
+        id: "cv7nt6tg1223",
         image: "http://localhost:8080/assets/default_cat.jpg",
         name: "Дуся"
       },

@@ -75,6 +75,7 @@
     </v-container>
     <v-pagination
       v-model="currentPage"
+      :to="{ name: 'Home', params: { currentPage: currentPage } }"
       :length="maxPages"
       prev-icon="mdi-menu-left"
       next-icon="mdi-menu-right"
@@ -96,7 +97,7 @@ export default {
       },
       filtred: false,
       colorItems: ["Белый", "Чёрный", "Рыжий", "Персиковый"],
-      currentPage: 1,
+      currentPage: null,
       offset: 10
     };
   },
@@ -110,6 +111,11 @@ export default {
     maxPages() {
       return Math.ceil(this.cats.length / this.offset);
     }
+  },
+  watch: {
+    currentPage() {
+      this.$router.push(`/page=${this.currentPage}`).catch(err=>{});
+    },
   },
   methods: {
     getAllCats() {
@@ -151,7 +157,8 @@ export default {
   },
   created() {
     this.getAllCats();
-  }
+    this.currentPage = +this.$route.params.currentPage || 1
+  },
 };
 </script>
 
