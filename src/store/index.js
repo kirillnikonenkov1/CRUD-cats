@@ -535,7 +535,7 @@ export default new Vuex.Store({
       let filtred = state.cats.filter((item) => {
         let counter = 0
         for (const key of filtersKeys) {
-          const catProperty = item[key].toString().toLowerCase()
+          const catProperty = item[key] === null ? '' : item[key].toString().toLowerCase()
           const filterProperty = filters[key].toString().toLowerCase()
           if (catProperty.includes(filterProperty)) counter++
         }
